@@ -1,1 +1,5 @@
 # rust-life
+
+```
+cargo run
+```
